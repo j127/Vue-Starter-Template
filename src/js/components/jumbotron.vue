@@ -1,6 +1,6 @@
 <style scoped>
-h1 {
-    color: green;
+.jumbotron {
+    margin-top: 9px;
 }
 </style>
 
@@ -16,7 +16,7 @@ export default {
         return { greeting: 'Saluton, Mondo!' }
     },
     ready() {
-        console.log('from jumbotron.vue');
+        console.log('Saluta mesago de jumbotron.vue');
     },
 }
 </script>
