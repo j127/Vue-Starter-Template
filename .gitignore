@@ -3,6 +3,8 @@
 *.sw[op]
 .idea/
 
+static/build/
+
 # Flask app
 instance/
 
