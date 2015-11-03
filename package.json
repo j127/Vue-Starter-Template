@@ -1,0 +1,19 @@
+{
+  "name": "vue-starter-template",
+  "version": "0.0.1",
+  "description": "Experimental",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j127/Vue-Starter-Template.git"
+  },
+  "author": "j127",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j127/Vue-Starter-Template/issues"
+  },
+  "homepage": "https://github.com/j127/Vue-Starter-Template#readme"
+}
